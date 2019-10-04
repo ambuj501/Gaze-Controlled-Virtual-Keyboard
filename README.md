@@ -1,5 +1,5 @@
 # Gaze-Controlled-Virtual-Keyboard
-In this This project is about the control of keyboard trough our eyes using Python with Opencv, completely from scratch.  The goal of such project is to write without using the hands. Such applications are really important for people affected by quadriplegia who completely lost the control of their limbs.
+This project is about the control of keyboard trough our eyes using Python with Opencv, completely from scratch.  The goal of such project is to write without using the hands. Such applications are really important for people affected by quadriplegia who completely lost the control of their limbs.
 
 The project will be built in 2 main parts.
 
